@@ -1,0 +1,11 @@
+.btn-facebook, .btn-google{
+    width: 49%;
+}
+.btn-facebook{
+    background: #3b5998;
+    color: #fff;
+}
+.btn-google{
+    background: #dd4b49;
+    color: #fff;
+}
